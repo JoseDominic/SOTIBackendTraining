@@ -1,0 +1,6 @@
+D:\WORK\SOTI\Technical training\Backend Training\Day 2\Calculator\bin\Debug\Calculator.exe.config
+D:\WORK\SOTI\Technical training\Backend Training\Day 2\Calculator\bin\Debug\Calculator.exe
+D:\WORK\SOTI\Technical training\Backend Training\Day 2\Calculator\bin\Debug\Calculator.pdb
+D:\WORK\SOTI\Technical training\Backend Training\Day 2\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\WORK\SOTI\Technical training\Backend Training\Day 2\Calculator\obj\Debug\Calculator.exe
+D:\WORK\SOTI\Technical training\Backend Training\Day 2\Calculator\obj\Debug\Calculator.pdb
