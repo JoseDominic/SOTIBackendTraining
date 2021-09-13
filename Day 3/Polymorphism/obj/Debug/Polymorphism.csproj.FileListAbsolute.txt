@@ -1,0 +1,6 @@
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\Polymorphism\bin\Debug\Polymorphism.exe.config
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\Polymorphism\bin\Debug\Polymorphism.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\Polymorphism\bin\Debug\Polymorphism.pdb
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\Polymorphism\obj\Debug\Polymorphism.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\Polymorphism\obj\Debug\Polymorphism.pdb

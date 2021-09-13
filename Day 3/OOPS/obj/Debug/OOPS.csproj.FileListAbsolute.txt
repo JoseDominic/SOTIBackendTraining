@@ -1,0 +1,7 @@
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\OOPS\bin\Debug\OOPS.exe.config
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\OOPS\bin\Debug\OOPS.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\OOPS\bin\Debug\OOPS.pdb
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\OOPS\obj\Debug\OOPS.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 3\OOPS\obj\Debug\OOPS.pdb
