@@ -11,7 +11,7 @@ namespace Polymorphism
         Developer, Delivery_Manager
     }
 
-    class User
+    abstract class User //classes that contain abstract methods are declared abstract //used to provide partial implementation
     {
         public role role { get; set; }
         const int age = 60; //instance constant
@@ -23,10 +23,13 @@ namespace Polymorphism
             //Console.WriteLine($"Age:{age}", this.age);
         }
  
-        public void Enter() //use keyword virtual for overriding this method in sub class
+        void Enter() //use keyword virtual for overriding this method in sub class
         {
             Console.WriteLine("User entered");
         }
+
+        //abstract method
+        public abstract void Register();//abstract methods are meant to be overriden by subclasses
     }
 
     class Employee:User
@@ -35,10 +38,15 @@ namespace Polymorphism
         {
             
         }
-        public new void Enter() //shadowing //polymorphism
+        public void Enter() //shadowing //polymorphism
         {
             Console.WriteLine("Enter inside employee"); 
 
+        }
+
+        public override void Register() // other imp keywords to learn (new, virtual)
+        {
+            Console.WriteLine("New Employee registered");
         }
     }
     class Program
