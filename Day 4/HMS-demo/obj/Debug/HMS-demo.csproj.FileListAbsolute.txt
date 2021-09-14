@@ -1,0 +1,7 @@
+D:\WORK\SOTI\Technical training\BackendTraining\Day 4\HMS-demo\bin\Debug\HMS-demo.exe.config
+D:\WORK\SOTI\Technical training\BackendTraining\Day 4\HMS-demo\bin\Debug\HMS-demo.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 4\HMS-demo\bin\Debug\HMS-demo.pdb
+D:\WORK\SOTI\Technical training\BackendTraining\Day 4\HMS-demo\obj\Debug\HMS-demo.csproj.AssemblyReference.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 4\HMS-demo\obj\Debug\HMS-demo.csproj.CoreCompileInputs.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 4\HMS-demo\obj\Debug\HMS-demo.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 4\HMS-demo\obj\Debug\HMS-demo.pdb
