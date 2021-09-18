@@ -1,0 +1,7 @@
+D:\WORK\SOTI\Technical training\BackendTraining\Day 6\Practice1\bin\Debug\Practice1.exe.config
+D:\WORK\SOTI\Technical training\BackendTraining\Day 6\Practice1\bin\Debug\Practice1.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 6\Practice1\bin\Debug\Practice1.pdb
+D:\WORK\SOTI\Technical training\BackendTraining\Day 6\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 6\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 6\Practice1\obj\Debug\Practice1.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 6\Practice1\obj\Debug\Practice1.pdb

@@ -1,0 +1,14 @@
+D:\WORK\SOTI\Technical training\BackendTraining\Delegates\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Delegates\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Delegates\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\WORK\SOTI\Technical training\BackendTraining\Delegates\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Delegates\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\WORK\SOTI\Technical training\BackendTraining\Delegates\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Delegates\DelegateDemo\obj\Debug\DelegateDemo.pdb
+D:\WORK\SOTI\Technical training\BackendTraining\Day 5\Delegates\DelegateDemo\bin\Debug\DelegateDemo.exe.config
+D:\WORK\SOTI\Technical training\BackendTraining\Day 5\Delegates\DelegateDemo\bin\Debug\DelegateDemo.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 5\Delegates\DelegateDemo\bin\Debug\DelegateDemo.pdb
+D:\WORK\SOTI\Technical training\BackendTraining\Day 5\Delegates\DelegateDemo\obj\Debug\DelegateDemo.csproj.AssemblyReference.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 5\Delegates\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\WORK\SOTI\Technical training\BackendTraining\Day 5\Delegates\DelegateDemo\obj\Debug\DelegateDemo.exe
+D:\WORK\SOTI\Technical training\BackendTraining\Day 5\Delegates\DelegateDemo\obj\Debug\DelegateDemo.pdb
